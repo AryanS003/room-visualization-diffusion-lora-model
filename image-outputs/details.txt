@@ -1,0 +1,4 @@
+load_t = 1m
+gen-img-2-51-1e5.png 11sec a well-lit living room
+gen-img-2.1-51-1e5.png 9sec a well-lit living room with brown sofa, table, ceiling fan and a painting
+gen-img-2.1-51-1e5.png 9sec a well-lit living room having green walls with brown sofa, table, ceiling fan and a painting
